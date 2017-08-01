@@ -1,4 +1,4 @@
-package com.ligf.logtool;
+package com.ligf.logtool.bean;
 
 import java.io.BufferedReader;
 import java.io.IOException;

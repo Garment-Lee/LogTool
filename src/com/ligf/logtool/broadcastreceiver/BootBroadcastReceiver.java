@@ -1,4 +1,6 @@
-package com.ligf.logtool;
+package com.ligf.logtool.broadcastreceiver;
+
+import com.ligf.logtool.service.LogService;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

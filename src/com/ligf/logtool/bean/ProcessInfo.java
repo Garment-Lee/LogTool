@@ -1,4 +1,4 @@
-package com.ligf.logtool;
+package com.ligf.logtool.bean;
 
 public class ProcessInfo {
 

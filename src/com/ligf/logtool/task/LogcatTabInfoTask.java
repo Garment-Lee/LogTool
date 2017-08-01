@@ -7,10 +7,10 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-import com.ligf.logtool.AppConfig;
-import com.ligf.logtool.LogApplication;
-import com.ligf.logtool.ProcessInfo;
-import com.ligf.logtool.StreamConsumer;
+import com.ligf.logtool.app.AppConfig;
+import com.ligf.logtool.app.LogApplication;
+import com.ligf.logtool.bean.ProcessInfo;
+import com.ligf.logtool.bean.StreamConsumer;
 
 import android.util.Log;
 

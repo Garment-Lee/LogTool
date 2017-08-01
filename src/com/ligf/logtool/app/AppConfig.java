@@ -1,4 +1,4 @@
-package com.ligf.logtool;
+package com.ligf.logtool.app;
 
 import java.io.File;
 

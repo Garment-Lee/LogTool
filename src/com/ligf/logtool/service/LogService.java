@@ -1,4 +1,4 @@
-package com.ligf.logtool;
+package com.ligf.logtool.service;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -14,6 +14,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+import com.ligf.logtool.app.AppConfig;
 import com.ligf.logtool.task.LogcatTabInfoTask;
 import com.ligf.logtool.task.RecordCpuInfoTask;
 import com.ligf.logtool.task.RecordMemInfoTask;

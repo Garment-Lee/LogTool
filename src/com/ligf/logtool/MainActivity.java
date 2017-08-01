@@ -2,6 +2,9 @@ package com.ligf.logtool;
 
 import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
+
+import com.ligf.logtool.service.LogService;
+
 import android.content.Intent;
 import android.os.Bundle;
 

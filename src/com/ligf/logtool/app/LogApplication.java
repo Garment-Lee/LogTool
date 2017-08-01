@@ -1,4 +1,4 @@
-package com.ligf.logtool;
+package com.ligf.logtool.app;
 
 import android.app.Application;
 import android.content.Context;

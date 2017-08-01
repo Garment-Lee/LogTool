@@ -10,7 +10,7 @@ import java.io.OutputStreamWriter;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import com.ligf.logtool.AppConfig;
+import com.ligf.logtool.app.AppConfig;
 
 /**
  * 打印系统Cpu占用情况的线程类
